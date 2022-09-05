@@ -1,0 +1,23 @@
+.section-exposition {
+    margin-bottom: 100px;
+}
+
+.section-secondaire{
+    
+}
+
+.section-general{
+    margin-top: 50px;
+}
+
+footer{
+    margin-top: 200px;
+}
+
+body{
+    background-image: url(./images/Accueil-bg\ 1.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
